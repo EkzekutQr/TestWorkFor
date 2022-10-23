@@ -95,10 +95,16 @@
     <Compile Include="Assets\Candice AI for Games\Scripts\Modules\CandiceModuleDetection.cs" />
     <Compile Include="Assets\Candice AI for Games\Scripts\Libs\Candice Pathfinding\Line.cs" />
     <Compile Include="Assets\Candice AI for Games\Scripts\Modules\CandiceModuleMovement.cs" />
+    <Compile Include="Assets\Pause Menu Assets\Scripts\Pausemenu\PauseManager.cs" />
+    <Compile Include="Assets\Pause Menu Assets\Scripts\Pausemenu\SaveSettings.cs" />
+    <Compile Include="Assets\Pause Menu Assets\Scripts\Utlities\CoroutineUtlities.cs" />
+    <Compile Include="Assets\Pause Menu Assets\Scripts\Utlities\Rotate.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Pause Menu Assets\Fonts\open-sans\Apache License.txt" />
     <None Include="Assets\StarterAssets\Environment\Shaders\Built-in_RP\Triplanar.shader" />
     <None Include="Assets\StarterAssets\license.txt" />
+    <None Include="Assets\Pause Menu Assets\Fonts\exo\SIL Open Font License.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
